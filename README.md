@@ -1,2 +1,4 @@
-I am learning git
-And I don't know why I am doing this.
+I am person
+I am going to code
+I am doing hell lot of things here
+yay
